@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://no-turno.github.io/notes-t6bhg5/sitemap.xml
